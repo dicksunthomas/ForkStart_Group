@@ -21,13 +21,6 @@ namespace ForkStart_Group
 
             // team member A's content goes here
 <<<<<<< HEAD
-
-            // team member B's content goes here
-
-            // team member C's content goes here
-            Console.WriteLine("Hello! This is Aashish.");
-=======
-<<<<<<< HEAD
 =======
             Console.WriteLine("Hello World");
       // team member B's content goes here
@@ -39,7 +32,6 @@ namespace ForkStart_Group
             Console.WriteLine("Hello World from Karthik");
             // team member C's content goes here
             
->>>>>>> 29dc9111d1aa1e7eed131895cbe0d03f81f3ef91
     }
   }
 }
