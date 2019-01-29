@@ -20,6 +20,13 @@ namespace ForkStart_Group
       Debug.WriteLine("Hello World from the instructor!");
 
             // team member A's content goes here
+<<<<<<< HEAD
+=======
+            Console.WriteLine("Hello World");
+      // team member B's content goes here
+
+      // team member C's content goes here
+>>>>>>> b90d70a5bc6afaac0a2ff590f5b2c6a778f73098
 
             // team member B's content goes here
             Console.WriteLine("Hello World from Karthik");
